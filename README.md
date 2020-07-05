@@ -1,6 +1,10 @@
 # camhack
-Front camera hacking tool
+Front camera Hack
 
-i have created a camera hacking tool
-if it executes then it asks camera permission and it send you the images 
-of the victim to you
+First you can select any webpage you want and clone it as html file 
+And add the camera script (camscript.txt) below the Head tag
+And then execute the script the victim will get that webpage
+And it will ask for camera permission
+
+cam-hack.html file is an empty file and you can rename your own html 
+file and execute that 
